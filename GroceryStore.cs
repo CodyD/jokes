@@ -26,7 +26,7 @@ namespace joke {
                 PickUpEggs();
             }
 
-            WriteJokeLine("He never returned...");
+            //and he never returned...
             return;
         }
 
