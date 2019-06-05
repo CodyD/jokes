@@ -26,8 +26,8 @@ namespace joke {
                 PickUpEggs();
             }
 
-            //and he never returned...
-            return;
+            //and he never...
+            return;//ed...
         }
 
         public static void PickUpMilk() {
